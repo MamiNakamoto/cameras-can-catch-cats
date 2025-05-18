@@ -1,4 +1,4 @@
-# Cat Detection System
+# Cat Detection System (Trained with 329 cats)
 
 This project is a real-time cat detection system using a computer camera. It is developed using the YOLOv5 object detection model.
 
